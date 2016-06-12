@@ -141,6 +141,7 @@ return [
          * Vendor Service Providers...
          */
         Styde\Html\HtmlServiceProvider::class,
+        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
         /*
          * Application Service Providers...
